@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"images/11.jpg",
+        "name":"samsung",
+        "rate":" Rate: 10000",
+        "offer":" offer price: 8000",
+        "button":"view"
+    },{
+        "img":"images/122.jpg",
+        "name":"iphone",
+        "rate":"Rate: 100000",
+        "offer":"Offer price: 77000",
+        "button":"view"
+    },{
+    "img":"images/download12.jpg",
+        "name":"oneplus",
+        "rate":"Rate: 19000",
+        "offer":"Offer price:12000",
+        "button":"view"
+    }
+ ]
+}
